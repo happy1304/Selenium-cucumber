@@ -1,4 +1,4 @@
-package stepDefintions;
+package src.test.java.stepDefintions;
 
 import cucumber.api.Scenario;
 import cucumber.api.java.After;
